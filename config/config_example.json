@@ -1,0 +1,7 @@
+{
+  "telegram_bot":
+  {
+    "bot_token": "xxx", // Obtain bot token from the @BotFather
+    "owner_chat_id": "" // Chat id for the owner
+  }
+}
