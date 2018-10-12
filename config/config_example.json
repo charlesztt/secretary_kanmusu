@@ -1,7 +1,13 @@
 {
+  "infra":
+  {
+    "port": "any number you like",
+    "fullchain_path": "/path/to/fullchain.pem",
+    "privkey_path": "/path/to/privkey.pem"
+  },
   "telegram_bot":
   {
-    "bot_token": "xxx", // Obtain bot token from the @BotFather
-    "owner_chat_id": "" // Chat id for the owner
+    "bot_token": "// Obtain bot token from the @BotFather",
+    "owner_chat_id": "// Chat id for the owner"
   }
 }
