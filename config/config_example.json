@@ -9,5 +9,10 @@
   {
     "bot_token": "// Obtain bot token from the @BotFather",
     "owner_chat_id": "// Chat id for the owner"
+  },
+    "google_api":
+  {
+    "map": "// google map api",
+    "calendar": "// google calendar api"
   }
 }
